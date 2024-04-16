@@ -11,5 +11,7 @@ El backend esta seperado por microservicios.
 
 [ms-vecinet-post-api](https://github.com/ekrenz-developer/ms-vecinet-post-api) : Microservicio para crear posteos y leer posteos.
 
+[ms-vecinet-create-post-worker](https://github.com/ekrenz-developer/ms-vecinet-create-post-worker) : Microservicio para crear posteos en segundo plano
+
 [ms-vecinet-auth-api](https://github.com/GabiiCata/ms-vecinet-auth-api) : Microservicio para administrar sesiones de usuarios y apis.
 
