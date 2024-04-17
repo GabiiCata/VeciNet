@@ -9,9 +9,12 @@ Esta aplicación compite en [la hackaton del dev.](https://www.lahackathondeldev
 ## Repositorios
 El backend esta seperado por microservicios.
 
+[sr-vecinet-api-gateway](https://github.com/GabiiCata/sr-vecinet-api-gateway) : Control de acceso a los endpoints del backend.
+
 [ms-vecinet-post-api](https://github.com/ekrenz-developer/ms-vecinet-post-api) : Microservicio para crear posteos y leer posteos.
 
 [ms-vecinet-create-post-worker](https://github.com/ekrenz-developer/ms-vecinet-create-post-worker) : Microservicio para crear posteos en segundo plano
 
 [ms-vecinet-auth-api](https://github.com/GabiiCata/ms-vecinet-auth-api) : Microservicio para administrar sesiones de usuarios y apis.
+
 
