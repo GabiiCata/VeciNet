@@ -18,3 +18,7 @@ El backend esta seperado por microservicios.
 [ms-vecinet-auth-api](https://github.com/GabiiCata/ms-vecinet-auth-api) : Microservicio para administrar sesiones de usuarios y apis.
 
 [ms-vecinet-discover-server](https://github.com/GabiiCata/ms-vecinet-discover-server) : Servidor EUREKA NETFLIX para descubrimiento y registro de microservicios.
+
+Frontend
+
+[sr-vecinet-web-app](https://github.com/ekrenz-developer/sr-vecinet-web-app) : Aplicación web para la demo del MVP.
