@@ -7,7 +7,10 @@ Proyecto de red social para obtener feeds por ubicación.
 Esta aplicación compite en [la hackaton del dev.](https://www.lahackathondeldev.com/).
 
 ## Repositorios
-El backend esta seperado por microservicios.
+
+Backend - Orientado a microservicos
+
+[infra-vecinet-compose](https://github.com/GabiiCata/infra-vecinet-compose) : Conjunto de instrucciones para levantar todo el backend
 
 [sr-vecinet-api-gateway](https://github.com/GabiiCata/sr-vecinet-api-gateway) : Control de acceso a los endpoints del backend.
 
